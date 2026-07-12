@@ -1,5 +1,5 @@
-# .github
-Profile
+.github
+## Profile
 
 # AnchorPoint Reliability Group
 ## Enterprise Reliability Engineering
@@ -52,6 +52,8 @@ contracting.
 🌐 Website
 
 https://anchorpointreliabilitygroup.com
+
+## Repository Guide
 
 | Repository | Purpose |
 |------------|---------|
