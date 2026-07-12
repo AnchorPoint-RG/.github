@@ -5,6 +5,12 @@
 
 ### Engineering reliability before failure becomes recurring.
 
+AnchorPoint Reliability Group develops engineering methodologies, AI capabilities,
+and reliability platforms that help organizations reduce recurring operational failures.
+
+Our work spans research, engineering, automation, assessments,
+and executive guidance for mission-critical systems.
+
 ## Mission
 
 AnchorPoint Reliability Group advances organizational reliability through
@@ -13,7 +19,7 @@ engineering methodology, observability, AI, and continuous improvement.
 We help organizations reduce recurring operational failures by transforming
 engineering knowledge into repeatable operational discipline.
 
-## AnchorPoint Platform
+## AnchorPoint Portfolio
 
 📘 AnchorPoint Reliability Canon
 
@@ -73,7 +79,7 @@ https://anchorpointreliabilitygroup.com
 
 ✔ AI Workforce Foundation Complete
 
-✔ Opportunity Intelligence Foundation Complete
+✔ Opportunity Intelligence (SAMGov-AI) Foundation Complete
 
 🔄 Canon Publication
 
@@ -83,7 +89,7 @@ https://anchorpointreliabilitygroup.com
 
 ## Engineering Principles
 
-• Reliability before complexity
+• Reliability before optimization
 
 • Containment before closure
 
@@ -99,9 +105,9 @@ Current priorities
 
 • Canon Publication
 
-• Reliability Lab
+• Reliability Lab Expansion
 
-• AI Workforce
+• AI Workforce Development
 
 • Opportunity Intelligence
 
@@ -112,3 +118,12 @@ Current priorities
 🌐 https://anchorpointreliabilitygroup.com
 
 ✉️ contact@anchorpointreliabilitygroup.com
+
+## Vision
+
+We believe every operational incident should improve the reliability
+of the next deployment.
+
+Engineering knowledge should compound—not disappear.
+
+AnchorPoint exists to make that process systematic.
