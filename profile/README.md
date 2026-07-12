@@ -53,4 +53,34 @@ contracting.
 
 https://anchorpointreliabilitygroup.com
 
+| Repository | Purpose |
+|------------|---------|
+| canon | Reliability Canon |
+| reliability-lab | Engineering Platform |
+| ai-workforce | Shared AI Platform |
+| samgov-ai | Opportunity Intelligence |
+| website | Public Website |
+| company | Internal Operations |
+| executive-guide | Executive Publication |
+| assessments | Commercial Assets |
+| anchorpoint-community | Community Resources |
 
+
+## Engineering Principles
+
+• Reliability before complexity
+
+• Containment before closure
+
+• Evidence over assumptions
+
+• Automation with human oversight
+
+• Continuous improvement
+
+
+## Contact
+
+🌐 https://anchorpointreliabilitygroup.com
+
+✉️ contact@anchorpointreliabilitygroup.com
