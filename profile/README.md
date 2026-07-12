@@ -1,4 +1,4 @@
-.github
+
 ## Profile
 
 # AnchorPoint Reliability Group
