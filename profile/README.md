@@ -2,20 +2,18 @@
 ## Profile
 
 # AnchorPoint Reliability Group
-## Enterprise Reliability Engineering
+
 ### Engineering reliability before failure becomes recurring.
 
 ## Mission
 
-AnchorPoint Reliability Group develops methodologies,
-engineering platforms,
-AI capabilities,
-and operational intelligence that help organizations
-reduce recurring operational failures.
+AnchorPoint Reliability Group advances organizational reliability through
+engineering methodology, observability, AI, and continuous improvement.
 
-### We build organizational reliability through AnchorPoint Methodology.
+We help organizations reduce recurring operational failures by transforming
+engineering knowledge into repeatable operational discipline.
 
-## Core Platforms
+## AnchorPoint Platform
 
 📘 AnchorPoint Reliability Canon
 
@@ -58,15 +56,30 @@ https://anchorpointreliabilitygroup.com
 | Repository | Purpose |
 |------------|---------|
 | canon | Reliability Canon |
-| reliability-lab | Engineering Platform |
+| reliability-lab | Engineering Laboratory |
 | ai-workforce | Shared AI Platform |
 | samgov-ai | Opportunity Intelligence |
 | website | Public Website |
 | company | Internal Operations |
 | executive-guide | Executive Publication |
-| assessments | Commercial Assets |
+| assessments | Assessment Framework |
 | anchorpoint-community | Community Resources |
 
+## Current Status
+
+✔ Reliability Canon RC1 Complete
+
+✔ Reliability Lab Foundation Complete
+
+✔ AI Workforce Foundation Complete
+
+✔ Opportunity Intelligence Foundation Complete
+
+🔄 Canon Publication
+
+🔄 AI Workforce Development
+
+🔄 Reliability Lab Expansion
 
 ## Engineering Principles
 
@@ -76,10 +89,23 @@ https://anchorpointreliabilitygroup.com
 
 • Evidence over assumptions
 
-• Automation with human oversight
+• Human-guided AI automation
 
 • Continuous improvement
 
+## Roadmap
+
+Current priorities
+
+• Canon Publication
+
+• Reliability Lab
+
+• AI Workforce
+
+• Opportunity Intelligence
+
+• Federal Solutions
 
 ## Contact
 
