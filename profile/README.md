@@ -3,31 +3,54 @@ Profile
 
 # AnchorPoint Reliability Group
 ## Enterprise Reliability Engineering
+### Engineering reliability before failure becomes recurring.
 
-### We build organizational reliability through:
-Reliability Operating System
+## Mission
 
-Reliability Intelligence
+AnchorPoint Reliability Group develops methodologies,
+engineering platforms,
+AI capabilities,
+and operational intelligence that help organizations
+reduce recurring operational failures.
 
-AI Workforce
+### We build organizational reliability through AnchorPoint Methodology.
 
-Reliability Lab
+## Core Platforms
 
-Executive Assessments
+📘 AnchorPoint Reliability Canon
 
-Continuous Improvement
+The intellectual foundation of the AnchorPoint methodology.
 
-### Core Projects
-Reliability Operating System
+---
 
-Reliability Lab
+🧪 Reliability Lab
 
-AI Workforce
+A layered reliability engineering platform demonstrating
+observability,
+containment validation,
+AI-assisted analysis,
+and continuous improvement.
 
-Executive Guide
+---
 
-### Mission
-Helping organizations make better operational decisions through disciplined operational reasoning, evidence-based engineering, and responsible AI.
+🤖 AI Workforce
 
-### Website
-anchorpointreliabilitygroup.com
+An intelligent agent framework supporting documentation,
+analysis,
+assessments,
+and operational automation.
+
+---
+
+🎯 Opportunity Intelligence
+
+AI-powered business development automation for federal
+contracting.
+
+---
+
+🌐 Website
+
+https://anchorpointreliabilitygroup.com
+
+
